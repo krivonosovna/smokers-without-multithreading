@@ -14,7 +14,7 @@
             Console.WriteLine("Диллер выложил на стол табак и бумагу");
             for (int i = 10; i >= 0; i--)
             {
-                Console.WriteLine("Курильщик со спичками куриt..."+i);
+                Console.WriteLine("Курильщик со спичками курит..."+i);
                 Thread.Sleep(1000);
             }
         }
